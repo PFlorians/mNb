@@ -1,7 +1,7 @@
 #include <iostream>
-#include "include\Utilitary.h"
-#include "include\Crypto.h"
-#include "include\Structs.h"
+#include "include/Utilitary.h"
+#include "include/Crypto.h"
+#include "include/Structs.h"
 #include <unistd.h>
 #include <exception>
 using namespace std;

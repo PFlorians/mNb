@@ -1,5 +1,5 @@
 #include <iostream>
-#include "..\include\Structs.h"
+#include "../include/Structs.h"
 
 using namespace std;
 

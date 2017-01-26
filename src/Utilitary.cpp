@@ -1,5 +1,5 @@
 #include <iostream>
-#include "..\include\Utilitary.h"
+#include "../include/Utilitary.h"
 //set of utilitary functions not mentioned to be any kind of object
 //low OS stuff and parsers go here
 using namespace std;

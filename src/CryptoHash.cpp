@@ -1,5 +1,5 @@
 #include <iostream>
-#include "..\include\Crypto.h"
+#include "../include/Crypto.h"
 
 //Fovler-Nol-Vo hashovaci algoritmus
 //Fovler-Nol-Vo hash algorithm
